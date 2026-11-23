@@ -10,7 +10,7 @@ A gravity-fed battery dispenser designed to store cylindrical batteries and disp
 
 ## 1. Autodesk Fusion — 3D Model
 
-The model was imported into Autodesk Fusion for geometry inspection and visualization.
+Designed and modeled a gravity-fed Battery Dispenser in Autodesk Fusion, featuring a vertical storage compartment and curved dispensing channel. The model was prepared for 3D printing using PrusaSlicer.
 
 <img width="1918" height="1045" alt="Fusion Model" src="https://github.com/user-attachments/assets/30bbb644-c64f-41e8-8d4b-9a3ba9fba35c" />
 
