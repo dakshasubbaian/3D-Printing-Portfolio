@@ -93,7 +93,7 @@ Farmers in hilly regions face difficulties transporting agricultural produce due
 
 ## Project Status
 
-Patent is published ,conceptual 3D model developed. 
+Patent is published along with the conceptual development of the 3D model. 
 Motion simulation, structural validation and physical prototype testing are planned.
 
 ## Conclusion
