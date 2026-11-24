@@ -1,4 +1,7 @@
 # Battery Dispenser | 3D Printing Project
+## Design Motivation
+
+Batteries are small and often get misplaced when stored loosely in drawers. I designed this compact, gravity-fed battery dispenser to keep batteries organized, reduce clutter and make them easily accessible whenever needed. Its space-saving design makes it convenient for everyday use at home or in workspaces.
 
 ## Overview
 A gravity-fed battery dispenser designed to store cylindrical batteries and dispense them through a lower collection channel.
