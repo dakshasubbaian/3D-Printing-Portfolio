@@ -1,6 +1,6 @@
 # IoT-Enabled Modular Cableway Transport System
-# PATENT APPLICATION NUMBER:
-### 202641120616
+### PATENT APPLICATION NUMBER: 202641120616
+<img width="1167" height="600" alt="image" src="https://github.com/user-attachments/assets/9c9af280-ecb0-4bb6-bfb7-aea4f757052c" />
 
 ## Project Overview
 
