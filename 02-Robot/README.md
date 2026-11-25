@@ -1,4 +1,4 @@
-# 3D-Printed Quadruped Robot
+# 3D-Printed Spider Robot
 
 ## Project Overview
 
